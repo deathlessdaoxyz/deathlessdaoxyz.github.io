@@ -1,0 +1,11 @@
+
+###
+
+curl --request GET \
+     --url https://api.opensea.io/api/v1/asset/0x32108a80306528a62bce6d70ae842cd66d2467e4/1/validate \
+     --header 'Accept: application/json' \
+     --header 'X-API-KEY: 4d51f7fa929e4880a17a98d8c97e57b5'
+
+
+
+# https://testnets-api.opensea.io/asset/0x75762169c9f2ac843a8793aa6ece0fc26396723b/1/validate/

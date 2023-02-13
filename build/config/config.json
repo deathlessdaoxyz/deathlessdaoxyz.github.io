@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x094948bf89db1f78c528c9b4d4c8b76ab9080560",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x094948bf89db1f78c528c9b4d4c8b76ab9080560",
+  "NETWORK": {
+    "NAME": "Ethereum Goerli",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Deathless NFT Avatars",
+  "SYMBOL": "DLA",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.08,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/deathless-avatars",
+  "SHOW_BACKGROUND": true
+}
