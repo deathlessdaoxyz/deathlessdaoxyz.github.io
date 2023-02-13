@@ -1,3 +1,7 @@
+## How to run 
+
+Start by doing `npm install` to install the node modules. 
+
 To run demo: 
 ```sh
 npm run start
