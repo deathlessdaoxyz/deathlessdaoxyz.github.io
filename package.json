@@ -2,11 +2,10 @@
   "name": "deathless_minting_app",
   "version": "1.0.0",
   "description": "Mint page",
-  "homepage":"https://deathlessdaoxyz.github.io/",
+  "homepage": "https://deathlessdaoxyz.github.io",
   "private": true,
   "dependencies": {
     "-": "^0.0.1",
-    "gh-pages": "^4.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.4",
@@ -19,7 +18,7 @@
     "web3": "^1.5.1",
     "web3-eth-contract": "^1.5.2"
   },
-  "author": "Daniel Eugene Botha (HashLips)",
+  "author": "DeathlessDAO",
   "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
@@ -38,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
